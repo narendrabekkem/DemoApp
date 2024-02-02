@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Incident daily">f4a6ee52d7031100b96d45a3ce610332</legacy_page>
+        <name>PA Incident daily</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>narendranath.reddy</sys_created_by>
+        <sys_created_on>2024-01-30 09:32:08</sys_created_on>
+        <sys_id>64a5762597c8061081a6bb46f053afa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Incident daily</sys_name>
+        <sys_package display_value="Demo App" source="x_802222_demo_app">9ea3461b9753719081a6bb46f053af60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo App">9ea3461b9753719081a6bb46f053af60</sys_scope>
+        <sys_update_name>sys_grid_canvas_64a5762597c8061081a6bb46f053afa1</sys_update_name>
+        <sys_updated_by>narendranath.reddy</sys_updated_by>
+        <sys_updated_on>2024-01-30 09:32:08</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

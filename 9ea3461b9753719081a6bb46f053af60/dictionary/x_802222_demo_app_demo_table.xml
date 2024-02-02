@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="9604829b9717719081a6bb46f053af28" label="Demo Table" max_length="40" name="x_802222_demo_app_demo_table" type="collection">
+        <element label="Comments" max_length="4000" name="comments" type="journal_input"/>
+        <element label="Description" max_length="400" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
